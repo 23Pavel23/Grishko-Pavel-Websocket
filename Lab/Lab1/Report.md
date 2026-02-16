@@ -1,20 +1,20 @@
 ![Конфигурация Виртуальной машины( не стал пересоздавать ее, так как создал на паре](screenshots/01-vm-settings.png) - Конфигурация Виртуальной машины( не стал пересоздавать ее, так как создал на паре
-![Запуск где видно фамилия@фамилия](screenshots/02-vm-console.png)
-![Вывод информации о Виртуальной машине](screenshots/03-system-info.png)
-![Вывод IP адрессов](screenshots/04-ip-addr.png)
-![Вывод задействованных портов](screenshots/05-ports.png)
-![Включение и вывод работы SSH протокола](screenshots/06-ssh-status.png)
-![Все доступные SSH порты](screenshots/07-ssh-port.png)
-![Все пользователи](screenshots/08-users.png)
-![Создание пользователя](screenshots/09-new-user.png)
+![Запуск где видно фамилия@фамилия](screenshots/02-vm-console.png) - Запуск где видно фамилия@фамилия
+![Вывод информации о Виртуальной машине](screenshots/03-system-info.png) - Вывод информации о Виртуальной машине
+![Вывод IP адрессов](screenshots/04-ip-addr.png) - Вывод IP адрессов
+![Вывод задействованных портов](screenshots/05-ports.png) - Вывод задействованных портов
+![Включение и вывод работы SSH протокола](screenshots/06-ssh-status.png) - Включение и вывод работы SSH протокола
+![Все доступные SSH порты](screenshots/07-ssh-port.png) - Все доступные SSH порты
+![Все пользователи](screenshots/08-users.png) - Все пользователи
+![Создание пользователя](screenshots/09-new-user.png) - Создание пользователя
 ![](screenshots/10-user-check.png)
-![Структура файлов](screenshots/11-root-tree.png)
-![Структура файлов](screenshots/12-home-tree.png)
-![У каких пользователей какие права](screenshots/13-permissions.png)
-![Изменение прав на файл](screenshots/14-chmod.png)
-![Проверка всех установленных пакетов](screenshots/15-packages.png)
-![Все запущенные сервисы](screenshots/16-services.png)
-![ТОП 10 процессов по памяти](screenshots/17-top-processes.png)
-![Процессы по пользователям](screenshots/18-process-count.png)
-![Большие файлы](screenshots/19-big-files.png)
-![Есть пару незначительных косяков, но они никак не влияют на структуру файлов и выполненную работу. Спасибо за внимание!](screenshots/20-report-files.png)
+![Структура файлов](screenshots/11-root-tree.png) - Структура файлов
+![Структура файлов](screenshots/12-home-tree.png) - Структура файлов
+![У каких пользователей какие права](screenshots/13-permissions.png) - У каких пользователей какие права
+![Изменение прав на файл](screenshots/14-chmod.png) - Изменение прав на файл
+![Проверка всех установленных пакетов](screenshots/15-packages.png) - Проверка всех установленных пакетов
+![Все запущенные сервисы](screenshots/16-services.png) - Все запущенные сервисы
+![ТОП 10 процессов по памяти](screenshots/17-top-processes.png) - ТОП 10 процессов по памяти
+![Процессы по пользователям](screenshots/18-process-count.png) - Процессы по пользователям
+![Большие файлы](screenshots/19-big-files.png) - Большие файлы
+![Есть пару незначительных косяков, но они никак не влияют на структуру файлов и выполненную работу. Спасибо за внимание!](screenshots/20-report-files.png) - Есть пару незначительных косяков, но они никак не влияют на структуру файлов и выполненную работу. Спасибо за внимание!
